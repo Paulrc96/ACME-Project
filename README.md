@@ -19,9 +19,9 @@ This excercise has an aprroach so that every method has to be distributed as muc
 
 ## Instruccions for start the Program Locally 
 * Requirements:
-    * Java JDK v8.0 
-    * Neatbeans IDE O Eclipse.
+    * Java JDK. 
+    * Eclipse.
 
 * Running and testing the Program: 
-    *  For run the program, download or clone the project from the repository. From the IDE selected, select the option open project and choose the location where the project is downloaded, then exececute the project from the main class.
+    *  For run the program, download or clone the project from the repository. From the Eclipse IDE, select the option "File", "Open Projects from file System" and choose the location where the project is downloaded in the option Directory, finally select "Finish" then exececute the project from the main class.
     * To execute the unit test by JUnit, enter in the folder ACME.Test and select a file to start, followed by click in execute JUnit Test.
