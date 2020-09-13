@@ -15,7 +15,7 @@ In order to know the hours to pay what the employee worked with the proposed dat
 Finally, in order to know the total result to pay, i created another method where i put the same Array of objects “Schedule” plus an Array of range of hours who it build in the past stage. From this way to classify the days what the employee worked and calculate the total result.
 
 ## Methodology.
-This excercise has an aprroach so that every method has to be distributed as much as possible in order to get an easy maintenance in face of errors and have a reuse of the methods when it whant implement new functionalities. This way of programming will allow to used this code in web programming.
+This excercise has an aprroach so that every method has to be distributed as much as possible in order to get an easy maintenance in face of errors and have a reuse of the methods when it want implement new functionalities. This way of programming will allow to used this code in web programming.
 
 ## Instruccions for start the Program Locally 
 * Requirements:
